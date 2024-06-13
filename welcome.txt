@@ -1,0 +1,2 @@
+hello file 
+write fn function is used to write

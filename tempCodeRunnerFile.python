@@ -1,0 +1,8 @@
+num=float(input("enter a nmber:"))
+if num >= 9:
+    if num==9:
+        print("zero")
+    else:
+        print("positive number")
+    else:
+print("negative number")

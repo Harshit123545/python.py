@@ -1,0 +1,1 @@
+#write a python program to print a table for a range of numbers

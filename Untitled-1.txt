@@ -1,0 +1,8 @@
+fre={4:"a",5:"b"}
+type{fre}
+<class 'dict'>
+
+se={5,8,9 ,"abc"}
+<class 'set'>
+
+c=complex(4)
